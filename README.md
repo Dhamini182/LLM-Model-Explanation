@@ -81,7 +81,6 @@ LLM_Model_Explanation/
 │── best_model.pkl
 │── README.md
 │── requirements.txt
-│── .env (Not uploaded to GitHub)
 ```
 
 ---
@@ -103,11 +102,8 @@ Create a `.env` file in the project folder.
 Example:
 
 ```text
-LLM_API_KEY=your_openrouter_api_key
+LLM_API_KEY=xxxxxxxxxxxx_api_key
 ```
-
-**Note:** Never upload your `.env` file to GitHub because it contains your private API key.
-
 ---
 
 ## Workflow
