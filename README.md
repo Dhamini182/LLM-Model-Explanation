@@ -208,6 +208,3 @@ pip install -r requirements.txt
 
 This project demonstrates how Machine Learning and Large Language Models can work together to provide accurate predictions along with meaningful and easy-to-understand explanations. The addition of prompt engineering, JSON validation, and guardrails improves the reliability, security, and usability of AI-powered prediction systems.
 
-**Saravana Kumar M**
-
-MBA Student
